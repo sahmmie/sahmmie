@@ -25,7 +25,7 @@
 
 - 💬 Ask me about: **Angular, React,Ionic, Nestjs, Node.js, TypeScript, Mongodb, Docker**
 
-- 📫 Reach me at: **smarsatto@gmail.com**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/samson-ibrahim/)**
 
 - ⚡ Fun fact: **I enjoy writing clean, maintainable code.**
 
